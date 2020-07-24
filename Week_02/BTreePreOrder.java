@@ -3,7 +3,7 @@ package com.ruoyi.grokking.algorithms.nTree;
 import java.util.LinkedList;
 import java.util.List;
 
-public class TwoTreePreOrder {
+public class BTreePreOrder {
 
     public class TreeNode {
         int val;

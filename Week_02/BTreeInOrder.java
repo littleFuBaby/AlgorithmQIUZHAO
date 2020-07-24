@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
-public class TwoTreeInOrder {
+public class BTreeInOrder {
 
     public class TreeNode {
         int val;
