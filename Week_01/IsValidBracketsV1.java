@@ -4,7 +4,7 @@ import org.apache.commons.lang.StringUtils;
 
 import java.util.Stack;
 
-public class IsValidBrackets {
+public class IsValidBracketsV1 {
 
     public boolean isValid(String s) {
         if (StringUtils.isEmpty(s)) {
